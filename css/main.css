@@ -1,0 +1,289 @@
+@font-face {
+    font-family: 'RobotoCondensedLight';
+    src: url('../fonts/RobotoCondensedLight.eot');
+    src: url('../fonts/RobotoCondensedLight.eot') format('embedded-opentype'),
+        url('../fonts/RobotoCondensedLight.woff2') format('woff2'),
+        url('../fonts/RobotoCondensedLight.woff') format('woff'),
+        url('../fonts/RobotoCondensedLight.ttf') format('truetype'),
+        url('../fonts/RobotoCondensedLight.svg#RobotoCondensedLight') format('svg');
+}
+
+body {
+    font-family: 'RobotoCondensedLight';
+    /* Navbar-top. Show it is fixed to the top: margin-top: 3.4375rem; */
+    margin-top: 3.4375rem;
+    /* background-color: rgb(244, 244, 244); */
+    background-image: url(../img/stucco-001.jpg);
+    background-size: 100% 100% no-repeat;
+    /* Lights Anchors - position: relative; */
+    position: relative;
+}
+
+p {
+    text-align: justify;
+    text-indent: 2rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-indent: 2rem;
+}
+
+a {
+    color: #ffffff;
+    outline: none;
+}
+
+/* a disabled */
+
+#light-p {
+    color: #8e8e8e;
+}
+
+/* a disabled */
+
+.a-shadow {
+    text-shadow: 0.1rem 0.1rem 0.1rem rgba(0, 0, 0, 0.5);
+}
+
+hr {
+    border-top: 0.1rem solid rgba(142, 142, 142, 0.4);
+}
+
+/* Navbar */
+
+.navbar {
+    box-shadow: 0 0.4em 5px rgba(0, 0, 0, 0.4);
+}
+
+.navbar-dark .navbar-toggler {
+    color: rgba(255, 255, 255, 0);
+}
+
+/* Search-link */
+
+.search-icon {
+    height: 0.7rem;
+    margin-left: .3rem;
+}
+
+.search-link {
+    color: #9a9da0;
+
+    display: inline-block;
+    padding-top: .5rem;
+    padding-left: 0;
+}
+
+.nav-search {
+    padding-right: 0;
+}
+
+.search-link:hover {
+    color: rgba(255, 255, 255, .75);
+}
+
+.search-link:active {
+    color: #ffffff;
+}
+
+.search-link:focus,
+.search-link:hover {
+    text-decoration: none;
+}
+
+/* Search-link */
+
+/* Navbar */
+
+.block-section {
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
+}
+
+/* Anchors */
+
+#about,
+#presentation,
+#contacts,
+#anchor-gallery,
+#pos,
+#stands,
+#outdoor,
+#polygraphy,
+#architecture,
+#other,
+#philosophy {
+    padding-top: 4.6rem;
+    margin-top: -4.6rem;
+    -webkit-background-clip: content-box;
+    background-clip: content-box;
+}
+
+/* Anchors */
+
+/* About me */
+
+.content-h5,
+.content-p,
+.card-p {
+    color: #8e8e8e;
+}
+
+.vertical-align {
+    vertical-align: 1rem;
+}
+
+/* About me */
+
+/* Card */
+
+.card-title-h6 {
+    color: #8e8e8e;
+}
+
+.card-text,
+.bottom-rem {
+    margin-bottom: 0;
+}
+
+/*
+.card-text, .card-p {
+    text-align: left;
+}
+*/
+
+.shadow-sm {
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.19) !important;
+}
+
+/* Card */
+
+/* Unitegallery */
+
+.ug-gallery-wrapper,
+.ug-under-960,
+.ug-theme-default {
+    max-width: 100% !important;
+}
+
+/* Unitegallery */
+
+/* Contacts */
+
+.hiden,
+.hr-hidden {
+    visibility: hidden;
+}
+
+/* Contacts */
+
+.facebook {
+    color: #212529;
+}
+
+
+/* Philosophy */
+
+.signature {
+    text-align: right;
+    font-style: italic;
+    padding-bottom: 1rem;
+}
+
+/* Philosophy */
+
+/* Google-search-form */
+
+.gsc-control-cse {
+    font-family: 'RobotoCondensedLight' !important;
+    border-color: #343A40 !important;
+    background-color: rgb(255, 255, 255) !important;
+    padding: 0 !important;
+    border: 0 solid #fff !important;
+}
+
+form.gsc-search-box {
+    font-size: 1rem !important;
+    margin-top: 0 !important;
+    margin-right: 0 !important;
+    margin-bottom: 0 !important;
+    margin-left: 0 !important;
+    width: 100% !important;
+}
+
+table.gsc-search-box {
+    display: block !important;
+    width: 100% !important;
+    height: calc(2.25rem + 2px) !important;
+    padding: .35rem .35rem !important;
+    line-height: 1.5 !important;
+    color: #495057 !important;
+    background-color: #fff !important;
+    background-clip: padding-box !important;
+    border: 0 solid #ced4da !important;
+    border-radius: 0.3rem !important;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out !important;
+    margin-bottom: 0 !important;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.19) !important;
+}
+
+.gsst_a .gscb_a {
+    color: #d3d5d6 !important;
+    cursor: pointer;
+}
+
+.gsc-input-box {
+    border: 0 solid #ffffff !important;
+}
+
+.gsib_a {
+    width: 100% !important;
+    padding: 0 !important;
+    padding-right: 6px !important;
+    padding-left: 6px !important;
+}
+
+.gsc-search-button-v2,
+.gsc-search-button-v2:hover,
+.gsc-search-button-v2:focus {
+    border-color: #6c757d !important;
+    background-color: #6c757d !important;
+    background-image: none;
+    filter: none;
+    box-shadow: inset 0 0 0 0 rgba(255, 255, 255, 0) !important;
+    -webkit-box-shadow: inset 0 0 0 0 rgba(255, 255, 255, 0) !important;
+    border-radius: .2rem !important;
+}
+
+.gcse {
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+
+/* Google-search-form */
+
+/* Footer */
+
+.text-footer {
+    text-indent: 0;
+    text-align: center;
+    padding-top: 2rem;
+    margin-bottom: 3rem;
+}
+
+.footer {
+    background-image: url(../img/stucco-001.jpg);
+    background-size: 100% 100% no-repeat;
+    filter: brightness(85%);
+}
+
+/* Footer */
+
+.bottom-rem-1 {
+    margin-bottom: 1rem;
+}
