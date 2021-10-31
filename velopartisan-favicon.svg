@@ -63,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,9 +73,9 @@
      id="layer1"
      transform="translate(-60.997395,-104.71541)">
     <g
-       id="g848">
+       id="g892">
       <rect
-         style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+         style="fill:#003ab4;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
          id="rect838"
          width="88.005203"
          height="88.005203"

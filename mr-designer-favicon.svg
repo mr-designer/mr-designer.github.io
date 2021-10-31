@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,22 +55,20 @@
      id="layer1"
      transform="translate(-87.073568,-130.57356)">
     <g
-       id="g905"
-       transform="matrix(4.4110219,0,0,4.4110219,-2475.9205,-1475.4125)"
-       style="stroke-width:0.226705">
+       id="g837">
       <rect
-         style="fill:#000000;fill-rule:evenodd;stroke-width:0.0599822"
+         style="fill:#343a40;fill-rule:evenodd;stroke-width:0.264583;fill-opacity:1"
          id="rect899"
-         width="8.1280003"
-         height="8.1280003"
-         x="581.04315"
-         y="364.08481" />
+         width="35.852787"
+         height="35.852787"
+         x="87.07357"
+         y="130.57356" />
       <circle
-         style="fill:#ffffff;stroke-width:0.0599822;stop-color:#000000"
+         style="fill:#ffffff;stroke-width:0.264583;stop-color:#000000"
          id="path901"
-         cx="586.73633"
-         cy="369.80042"
-         r="2.0807483" />
+         cx="112.18629"
+         cy="155.78523"
+         r="9.1782265" />
     </g>
   </g>
 </svg>
