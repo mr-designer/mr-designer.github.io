@@ -151,11 +151,9 @@ hr {
     margin-bottom: 0;
 }
 
-/*
 .card-text, .card-p {
     text-align: left;
 }
-*/
 
 .shadow-sm {
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.19) !important;
