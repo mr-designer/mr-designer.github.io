@@ -1,0 +1,2106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="SAS.Planet 20.12.12.10106" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+  <metadata>
+    <time>2021-10-16T17:06:53Z</time>
+    <link href="http://www.sasgis.org/">
+      <text>SAS.Planet</text>
+    </link>
+    <name>068</name>
+    <author>
+      <name>designer</name>
+    </author>
+    <bounds maxlat="53.531706" maxlon="33.800607" minlat="54.173411" minlon="33.276063"/>
+  </metadata>
+  <rte>
+    <name>068</name>
+    <number>1</number>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:Categories>
+          <gpxx:Category>MEGA-маршруты</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:RouteExtension>
+      <gpxtrx:TrackExtension>
+        <gpxtrx:Categories>
+          <gpxtrx:Category>MEGA-маршруты</gpxtrx:Category>
+        </gpxtrx:Categories>
+      </gpxtrx:TrackExtension>
+    </extensions>
+    <rtept lat="53.5824" lon="33.800541">
+      <name>068 1</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.584311" lon="33.798578">
+      <name>068 2</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.585985" lon="33.796914">
+      <name>068 3</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.586782" lon="33.796043">
+      <name>068 4</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.587606" lon="33.795179">
+      <name>068 5</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.587969" lon="33.794771">
+      <name>068 6</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.588629" lon="33.794022">
+      <name>068 7</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.589397" lon="33.793473">
+      <name>068 8</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.590303" lon="33.793348">
+      <name>068 9</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.591151" lon="33.79319">
+      <name>068 10</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.591681" lon="33.793091">
+      <name>068 11</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.599656" lon="33.791602">
+      <name>068 12</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.613211" lon="33.781579">
+      <name>068 13</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.613917" lon="33.78034">
+      <name>068 14</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.614162" lon="33.780426">
+      <name>068 15</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.617192" lon="33.779911">
+      <name>068 16</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.619075" lon="33.780684">
+      <name>068 17</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.619183" lon="33.780714">
+      <name>068 18</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.620229" lon="33.781003">
+      <name>068 19</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.620668" lon="33.780667">
+      <name>068 20</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.621048" lon="33.779993">
+      <name>068 21</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.621335" lon="33.779096">
+      <name>068 22</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.621598" lon="33.778396">
+      <name>068 23</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.621959" lon="33.777963">
+      <name>068 24</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.622468" lon="33.777699">
+      <name>068 25</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.628009" lon="33.775705">
+      <name>068 26</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.632626" lon="33.774349">
+      <name>068 27</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.637212" lon="33.773176">
+      <name>068 28</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.640002" lon="33.772432">
+      <name>068 29</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.642938" lon="33.771684">
+      <name>068 30</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.644689" lon="33.771197">
+      <name>068 31</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.646215" lon="33.770638">
+      <name>068 32</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.647601" lon="33.770102">
+      <name>068 33</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.648418" lon="33.76974">
+      <name>068 34</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.648987" lon="33.769441">
+      <name>068 35</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.649517" lon="33.769109">
+      <name>068 36</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.650271" lon="33.768537">
+      <name>068 37</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.650749" lon="33.768114">
+      <name>068 38</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.651158" lon="33.767798">
+      <name>068 39</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.651579" lon="33.767637">
+      <name>068 40</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.652059" lon="33.767611">
+      <name>068 41</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.652766" lon="33.767742">
+      <name>068 42</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.653912" lon="33.76787">
+      <name>068 43</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.655017" lon="33.768196">
+      <name>068 44</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.656245" lon="33.768548">
+      <name>068 45</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.65673" lon="33.76865">
+      <name>068 46</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.656935" lon="33.768674">
+      <name>068 47</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.657154" lon="33.768621">
+      <name>068 48</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.657573" lon="33.768437">
+      <name>068 49</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.657841" lon="33.768009">
+      <name>068 50</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.658377" lon="33.76573">
+      <name>068 51</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.658927" lon="33.763399">
+      <name>068 52</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.659073" lon="33.762991">
+      <name>068 53</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.659254" lon="33.762682">
+      <name>068 54</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.659979" lon="33.761929">
+      <name>068 55</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.663176" lon="33.758936">
+      <name>068 56</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.664368" lon="33.757768">
+      <name>068 57</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.665967" lon="33.75623">
+      <name>068 58</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.666615" lon="33.755575">
+      <name>068 59</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.66697" lon="33.755279">
+      <name>068 60</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.66729" lon="33.75515">
+      <name>068 61</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.667822" lon="33.754955">
+      <name>068 62</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.672873" lon="33.753387">
+      <name>068 63</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.673696" lon="33.753248">
+      <name>068 64</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.674308" lon="33.753433">
+      <name>068 65</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.67504" lon="33.753633">
+      <name>068 66</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.675872" lon="33.753772">
+      <name>068 67</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.676146" lon="33.754189">
+      <name>068 68</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.676512" lon="33.754668">
+      <name>068 69</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.677207" lon="33.754976">
+      <name>068 70</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.67803" lon="33.75476">
+      <name>068 71</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.678478" lon="33.754405">
+      <name>068 72</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.679109" lon="33.753757">
+      <name>068 73</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.679548" lon="33.752368">
+      <name>068 74</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.680005" lon="33.751457">
+      <name>068 75</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.68102" lon="33.749713">
+      <name>068 76</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.681788" lon="33.748169">
+      <name>068 77</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.682482" lon="33.746919">
+      <name>068 78</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.68294" lon="33.746085">
+      <name>068 79</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.683762" lon="33.745313">
+      <name>068 80</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.684082" lon="33.745298">
+      <name>068 81</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.684466" lon="33.74556">
+      <name>068 82</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.685006" lon="33.746085">
+      <name>068 83</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.685499" lon="33.746209">
+      <name>068 84</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.686021" lon="33.745745">
+      <name>068 85</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.686798" lon="33.74468">
+      <name>068 86</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.687145" lon="33.744279">
+      <name>068 87</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.687794" lon="33.743677">
+      <name>068 88</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.689092" lon="33.743214">
+      <name>068 89</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.691007" lon="33.742535">
+      <name>068 90</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.69145" lon="33.742434">
+      <name>068 91</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.69241" lon="33.742805">
+      <name>068 92</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.69464" lon="33.74404">
+      <name>068 93</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.696139" lon="33.744997">
+      <name>068 94</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.697071" lon="33.745213">
+      <name>068 95</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.697802" lon="33.744904">
+      <name>068 96</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.699393" lon="33.743515">
+      <name>068 97</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.701897" lon="33.741446">
+      <name>068 98</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.702609" lon="33.740119">
+      <name>068 99</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.703487" lon="33.738266">
+      <name>068 100</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.704748" lon="33.736568">
+      <name>068 101</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.706557" lon="33.734469">
+      <name>068 102</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.70864" lon="33.732277">
+      <name>068 103</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.710942" lon="33.730363">
+      <name>068 104</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.713172" lon="33.728291">
+      <name>068 105</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.714939" lon="33.727168">
+      <name>068 106</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.715607" lon="33.726912">
+      <name>068 107</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.716145" lon="33.726941">
+      <name>068 108</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.715786" lon="33.724703">
+      <name>068 109</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.713204" lon="33.723443">
+      <name>068 110</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.709087" lon="33.717583">
+      <name>068 111</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.705901" lon="33.715209">
+      <name>068 112</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.697747" lon="33.709112">
+      <name>068 113</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.685599" lon="33.700747">
+      <name>068 114</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.685295" lon="33.70006">
+      <name>068 115</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.689248" lon="33.685438">
+      <name>068 116</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.689705" lon="33.684237">
+      <name>068 117</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.690264" lon="33.683164">
+      <name>068 118</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.694037" lon="33.676366">
+      <name>068 119</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.697481" lon="33.67016">
+      <name>068 120</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.701673" lon="33.665869">
+      <name>068 121</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.702471" lon="33.662363">
+      <name>068 122</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.70307" lon="33.659732">
+      <name>068 123</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.705181" lon="33.652553">
+      <name>068 124</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.705533" lon="33.651374">
+      <name>068 125</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.705918" lon="33.650033">
+      <name>068 126</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.706082" lon="33.64949">
+      <name>068 127</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.70615" lon="33.649295">
+      <name>068 128</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.706942" lon="33.647707">
+      <name>068 129</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.707333" lon="33.646828">
+      <name>068 130</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.707559" lon="33.646288">
+      <name>068 131</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.705054" lon="33.643387">
+      <name>068 132</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.704816" lon="33.64297">
+      <name>068 133</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.704752" lon="33.642631">
+      <name>068 134</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.704835" lon="33.64226">
+      <name>068 135</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.705502" lon="33.639737">
+      <name>068 136</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.705827" lon="33.638491">
+      <name>068 137</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.706022" lon="33.637319">
+      <name>068 138</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.706134" lon="33.636341">
+      <name>068 139</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.706156" lon="33.635476">
+      <name>068 140</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.706206" lon="33.634975">
+      <name>068 141</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.70632" lon="33.633844">
+      <name>068 142</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.706576" lon="33.63218">
+      <name>068 143</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.709268" lon="33.624241">
+      <name>068 144</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.70998" lon="33.62231">
+      <name>068 145</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.710208" lon="33.621752">
+      <name>068 146</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.711605" lon="33.620979">
+      <name>068 147</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.714958" lon="33.619692">
+      <name>068 148</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.717675" lon="33.619005">
+      <name>068 149</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.718717" lon="33.618405">
+      <name>068 150</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.721078" lon="33.616559">
+      <name>068 151</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.722729" lon="33.614285">
+      <name>068 152</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.725852" lon="33.609306">
+      <name>068 153</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.732808" lon="33.599135">
+      <name>068 154</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.734712" lon="33.596518">
+      <name>068 155</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.737378" lon="33.593471">
+      <name>068 156</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.738495" lon="33.592355">
+      <name>068 157</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.741411" lon="33.59055">
+      <name>068 158</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.747784" lon="33.586604">
+      <name>068 159</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.757553" lon="33.580897">
+      <name>068 160</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.757883" lon="33.580725">
+      <name>068 161</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.763946" lon="33.573301">
+      <name>068 162</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.762757" lon="33.561875">
+      <name>068 163</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.768607" lon="33.56684">
+      <name>068 164</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.769696" lon="33.567654">
+      <name>068 165</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.770372" lon="33.567926">
+      <name>068 166</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.771071" lon="33.568048">
+      <name>068 167</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.774675" lon="33.568107">
+      <name>068 168</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.775843" lon="33.567966">
+      <name>068 169</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.777163" lon="33.567638">
+      <name>068 170</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.778128" lon="33.567316">
+      <name>068 171</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.779986" lon="33.566472">
+      <name>068 172</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.790276" lon="33.561163">
+      <name>068 173</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.790792" lon="33.560897">
+      <name>068 174</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.791075" lon="33.560751">
+      <name>068 175</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.791888" lon="33.560332">
+      <name>068 176</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.792741" lon="33.559892">
+      <name>068 177</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.793414" lon="33.559544">
+      <name>068 178</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.79755" lon="33.558372">
+      <name>068 179</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.800256" lon="33.557253">
+      <name>068 180</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.800423" lon="33.557124">
+      <name>068 181</name>
+      <sym>waypoint</sym>
+    </rtept>
+  </rte>
+  <rte>
+    <name>071</name>
+    <number>2</number>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:Categories>
+          <gpxx:Category>MEGA-маршруты</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:RouteExtension>
+      <gpxtrx:TrackExtension>
+        <gpxtrx:Categories>
+          <gpxtrx:Category>MEGA-маршруты</gpxtrx:Category>
+        </gpxtrx:Categories>
+      </gpxtrx:TrackExtension>
+    </extensions>
+    <rtept lat="53.80052" lon="33.557048">
+      <name>071 1</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.80079" lon="33.556839">
+      <name>071 2</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.802094" lon="33.555438">
+      <name>071 3</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.803084" lon="33.554305">
+      <name>071 4</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.803946" lon="33.553232">
+      <name>071 5</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.804583" lon="33.552244">
+      <name>071 6</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.805281" lon="33.551839">
+      <name>071 7</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.806364" lon="33.551392">
+      <name>071 8</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.808048" lon="33.550852">
+      <name>071 9</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.809676" lon="33.550403">
+      <name>071 10</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.816388" lon="33.548213">
+      <name>071 11</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.817122" lon="33.547827">
+      <name>071 12</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.818186" lon="33.547355">
+      <name>071 13</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.825254" lon="33.542119">
+      <name>071 14</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.826597" lon="33.541261">
+      <name>071 15</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.827534" lon="33.540917">
+      <name>071 16</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.833005" lon="33.540145">
+      <name>071 17</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.835006" lon="33.539673">
+      <name>071 18</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.835639" lon="33.540102">
+      <name>071 19</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.837943" lon="33.540016">
+      <name>071 20</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.841235" lon="33.540059">
+      <name>071 21</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.841995" lon="33.539844">
+      <name>071 22</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.842299" lon="33.539329">
+      <name>071 23</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.843514" lon="33.538814">
+      <name>071 24</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.844349" lon="33.538729">
+      <name>071 25</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.857032" lon="33.541132">
+      <name>071 26</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.869408" lon="33.543492">
+      <name>071 27</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.876923" lon="33.544908">
+      <name>071 28</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.881578" lon="33.545724">
+      <name>071 29</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.891796" lon="33.547483">
+      <name>071 30</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.89784" lon="33.548814">
+      <name>071 31</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.907397" lon="33.551174">
+      <name>071 32</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.914551" lon="33.552674">
+      <name>071 33</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.926329" lon="33.555764">
+      <name>071 34</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.929866" lon="33.556536">
+      <name>071 35</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.93161" lon="33.556923">
+      <name>071 36</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.933757" lon="33.557395">
+      <name>071 37</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.934364" lon="33.557609">
+      <name>071 38</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.935627" lon="33.557609">
+      <name>071 39</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.940124" lon="33.555249">
+      <name>071 40</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.941084" lon="33.554906">
+      <name>071 41</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.941665" lon="33.554949">
+      <name>071 42</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.943104" lon="33.557609">
+      <name>071 43</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.944273" lon="33.560366">
+      <name>071 44</name>
+      <sym>waypoint</sym>
+    </rtept>
+  </rte>
+  <rte>
+    <name>067</name>
+    <number>3</number>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:Categories>
+          <gpxx:Category>MEGA-маршруты</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:RouteExtension>
+      <gpxtrx:TrackExtension>
+        <gpxtrx:Categories>
+          <gpxtrx:Category>MEGA-маршруты</gpxtrx:Category>
+        </gpxtrx:Categories>
+      </gpxtrx:TrackExtension>
+    </extensions>
+    <rtept lat="53.944291" lon="33.56041">
+      <name>067 1</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.944405" lon="33.560679">
+      <name>067 2</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.944999" lon="33.561473">
+      <name>067 3</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.945428" lon="33.561794">
+      <name>067 4</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.945721" lon="33.561491">
+      <name>067 5</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.946059" lon="33.561065">
+      <name>067 6</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.946603" lon="33.560743">
+      <name>067 7</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.947247" lon="33.561151">
+      <name>067 8</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.949924" lon="33.563575">
+      <name>067 9</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.950265" lon="33.563661">
+      <name>067 10</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.952222" lon="33.563897">
+      <name>067 11</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.958282" lon="33.564241">
+      <name>067 12</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.961401" lon="33.564155">
+      <name>067 13</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.962044" lon="33.564026">
+      <name>067 14</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.963017" lon="33.56364">
+      <name>067 15</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.966501" lon="33.561473">
+      <name>067 16</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.967119" lon="33.561215">
+      <name>067 17</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.972256" lon="33.559284">
+      <name>067 18</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.972837" lon="33.558125">
+      <name>067 19</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.973644" lon="33.55613">
+      <name>067 20</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.974351" lon="33.553812">
+      <name>067 21</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.974982" lon="33.551623">
+      <name>067 22</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.975057" lon="33.551423">
+      <name>067 23</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.978474" lon="33.541532">
+      <name>067 24</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.981864" lon="33.535781">
+      <name>067 25</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.988137" lon="33.516813">
+      <name>067 26</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.989401" lon="33.513379">
+      <name>067 27</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.990514" lon="33.49484">
+      <name>067 28</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.992284" lon="33.487115">
+      <name>067 29</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.992992" lon="33.4866">
+      <name>067 30</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.994408" lon="33.475614">
+      <name>067 31</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.995369" lon="33.474155">
+      <name>067 32</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.995572" lon="33.468833">
+      <name>067 33</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.996541" lon="33.468209">
+      <name>067 34</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.004227" lon="33.457051">
+      <name>067 35</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.007564" lon="33.454133">
+      <name>067 36</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.010193" lon="33.454305">
+      <name>067 37</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.010547" lon="33.446065">
+      <name>067 38</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.017422" lon="33.434735">
+      <name>067 39</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.024397" lon="33.416453">
+      <name>067 40</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.026715" lon="33.408467">
+      <name>067 41</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.027007" lon="33.407554">
+      <name>067 42</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.027867" lon="33.405215">
+      <name>067 43</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.028816" lon="33.402716">
+      <name>067 44</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.029826" lon="33.400008">
+      <name>067 45</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.030791" lon="33.397531">
+      <name>067 46</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.031081" lon="33.396639">
+      <name>067 47</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.031253" lon="33.396267">
+      <name>067 48</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.031396" lon="33.396007">
+      <name>067 49</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.031619" lon="33.395725">
+      <name>067 50</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.032291" lon="33.394939">
+      <name>067 51</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.033132" lon="33.393864">
+      <name>067 52</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.03349" lon="33.39337">
+      <name>067 53</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.033563" lon="33.393165">
+      <name>067 54</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.033593" lon="33.392844">
+      <name>067 55</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.03358" lon="33.392565">
+      <name>067 56</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.033456" lon="33.391269">
+      <name>067 57</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.033344" lon="33.389979">
+      <name>067 58</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.033348" lon="33.389771">
+      <name>067 59</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.033525" lon="33.389424">
+      <name>067 60</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.033721" lon="33.389026">
+      <name>067 61</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.033817" lon="33.388757">
+      <name>067 62</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.033846" lon="33.388526">
+      <name>067 63</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.033846" lon="33.388256">
+      <name>067 64</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.033797" lon="33.387958">
+      <name>067 65</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.033629" lon="33.386973">
+      <name>067 66</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.033565" lon="33.386376">
+      <name>067 67</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.033549" lon="33.385936">
+      <name>067 68</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.034728" lon="33.384225">
+      <name>067 69</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.036672" lon="33.381774">
+      <name>067 70</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.037855" lon="33.379939">
+      <name>067 71</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.042194" lon="33.373265">
+      <name>067 72</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.042462" lon="33.37278">
+      <name>067 73</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.042866" lon="33.372051">
+      <name>067 74</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.057038" lon="33.347523">
+      <name>067 75</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.057318" lon="33.347172">
+      <name>067 76</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.057872" lon="33.346481">
+      <name>067 77</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.069081" lon="33.340749">
+      <name>067 78</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.070297" lon="33.340127">
+      <name>067 79</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.071286" lon="33.339663">
+      <name>067 80</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.072297" lon="33.339187">
+      <name>067 81</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.072756" lon="33.3385">
+      <name>067 82</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.072673" lon="33.336606">
+      <name>067 83</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.073089" lon="33.335872">
+      <name>067 84</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.073979" lon="33.335682">
+      <name>067 85</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.074702" lon="33.3352">
+      <name>067 86</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.074978" lon="33.335011">
+      <name>067 87</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.077466" lon="33.332391">
+      <name>067 88</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.079272" lon="33.33097">
+      <name>067 89</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.080564" lon="33.33082">
+      <name>067 90</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.083162" lon="33.33052">
+      <name>067 91</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.085612" lon="33.3301">
+      <name>067 92</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.091092" lon="33.328259">
+      <name>067 93</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.094117" lon="33.327187">
+      <name>067 94</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.098071" lon="33.323215">
+      <name>067 95</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.106321" lon="33.312411">
+      <name>067 96</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.108072" lon="33.310583">
+      <name>067 97</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.108327" lon="33.310266">
+      <name>067 98</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.109272" lon="33.30939">
+      <name>067 99</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.111639" lon="33.307198">
+      <name>067 100</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.112329" lon="33.306559">
+      <name>067 101</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.113231" lon="33.305617">
+      <name>067 102</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.114135" lon="33.304676">
+      <name>067 103</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.115124" lon="33.303743">
+      <name>067 104</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.115895" lon="33.302976">
+      <name>067 105</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.116893" lon="33.301997">
+      <name>067 106</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.116958" lon="33.301934">
+      <name>067 107</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.11632" lon="33.299837">
+      <name>067 108</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.116057" lon="33.298959">
+      <name>067 109</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.114855" lon="33.294932">
+      <name>067 110</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.114541" lon="33.293887">
+      <name>067 111</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.113925" lon="33.29186">
+      <name>067 112</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.113391" lon="33.290103">
+      <name>067 113</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.113027" lon="33.288906">
+      <name>067 114</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.112849" lon="33.288322">
+      <name>067 115</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.112739" lon="33.287958">
+      <name>067 116</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.112387" lon="33.286802">
+      <name>067 117</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.112313" lon="33.286558">
+      <name>067 118</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.111929" lon="33.285293">
+      <name>067 119</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.111788" lon="33.28483">
+      <name>067 120</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.112074" lon="33.284591">
+      <name>067 121</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.112596" lon="33.284156">
+      <name>067 122</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.112639" lon="33.28412">
+      <name>067 123</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.112839" lon="33.283954">
+      <name>067 124</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.113191" lon="33.28366">
+      <name>067 125</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.113376" lon="33.283506">
+      <name>067 126</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.113415" lon="33.283474">
+      <name>067 127</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.117626" lon="33.279958">
+      <name>067 128</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.119344" lon="33.278521">
+      <name>067 129</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.119824" lon="33.278193">
+      <name>067 130</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.121151" lon="33.277353">
+      <name>067 131</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.123257" lon="33.27649">
+      <name>067 132</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.125611" lon="33.276078">
+      <name>067 133</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.126795" lon="33.276063">
+      <name>067 134</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.127465" lon="33.276075">
+      <name>067 135</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.127837" lon="33.276125">
+      <name>067 136</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.127892" lon="33.276132">
+      <name>067 137</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.133637" lon="33.277148">
+      <name>067 138</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.136381" lon="33.277619">
+      <name>067 139</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.137646" lon="33.277837">
+      <name>067 140</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.139464" lon="33.278149">
+      <name>067 141</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.140103" lon="33.278268">
+      <name>067 142</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.140986" lon="33.278418">
+      <name>067 143</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.14104" lon="33.278463">
+      <name>067 144</name>
+      <sym>waypoint</sym>
+    </rtept>
+  </rte>
+  <rte>
+    <name>069</name>
+    <number>4</number>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:Categories>
+          <gpxx:Category>MEGA-маршруты</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:RouteExtension>
+      <gpxtrx:TrackExtension>
+        <gpxtrx:Categories>
+          <gpxtrx:Category>MEGA-маршруты</gpxtrx:Category>
+        </gpxtrx:Categories>
+      </gpxtrx:TrackExtension>
+    </extensions>
+    <rtept lat="54.141175" lon="33.278572">
+      <name>069 1</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.142795" lon="33.279889">
+      <name>069 2</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.142984" lon="33.280043">
+      <name>069 3</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.144391" lon="33.28115">
+      <name>069 4</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.147193" lon="33.283356">
+      <name>069 5</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.147273" lon="33.283421">
+      <name>069 6</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.148661" lon="33.284543">
+      <name>069 7</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.149132" lon="33.284924">
+      <name>069 8</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.149354" lon="33.285103">
+      <name>069 9</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.150682" lon="33.286177">
+      <name>069 10</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.151364" lon="33.286728">
+      <name>069 11</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.151813" lon="33.287091">
+      <name>069 12</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.151967" lon="33.287215">
+      <name>069 13</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.15213" lon="33.287597">
+      <name>069 14</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.152098" lon="33.287734">
+      <name>069 15</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.152092" lon="33.287881">
+      <name>069 16</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.152119" lon="33.288042">
+      <name>069 17</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.152179" lon="33.288181">
+      <name>069 18</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.152262" lon="33.28827">
+      <name>069 19</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.152209" lon="33.288444">
+      <name>069 20</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.15206" lon="33.288989">
+      <name>069 21</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.152026" lon="33.289112">
+      <name>069 22</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.151889" lon="33.289594">
+      <name>069 23</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.15169" lon="33.290301">
+      <name>069 24</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.151491" lon="33.291017">
+      <name>069 25</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.151305" lon="33.291682">
+      <name>069 26</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.151192" lon="33.292086">
+      <name>069 27</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.15118" lon="33.292131">
+      <name>069 28</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.151163" lon="33.29219">
+      <name>069 29</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.150463" lon="33.294729">
+      <name>069 30</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.150715" lon="33.295762">
+      <name>069 31</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.150913" lon="33.295908">
+      <name>069 32</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.151129" lon="33.296066">
+      <name>069 33</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.152296" lon="33.29702">
+      <name>069 34</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.152478" lon="33.297166">
+      <name>069 35</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.152807" lon="33.297432">
+      <name>069 36</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.153374" lon="33.297876">
+      <name>069 37</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.15405" lon="33.298395">
+      <name>069 38</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.155096" lon="33.299258">
+      <name>069 39</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.156047" lon="33.300042">
+      <name>069 40</name>
+      <sym>waypoint</sym>
+    </rtept>
+  </rte>
+  <rte>
+    <name>070</name>
+    <number>5</number>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:Categories>
+          <gpxx:Category>MEGA-маршруты</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:RouteExtension>
+      <gpxtrx:TrackExtension>
+        <gpxtrx:Categories>
+          <gpxtrx:Category>MEGA-маршруты</gpxtrx:Category>
+        </gpxtrx:Categories>
+      </gpxtrx:TrackExtension>
+    </extensions>
+    <rtept lat="54.156053" lon="33.300047">
+      <name>070 1</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.156102" lon="33.300087">
+      <name>070 2</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.155246" lon="33.303428">
+      <name>070 3</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.155217" lon="33.304012">
+      <name>070 4</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.155208" lon="33.304495">
+      <name>070 5</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.15522" lon="33.304923">
+      <name>070 6</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.155277" lon="33.305259">
+      <name>070 7</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.155426" lon="33.305677">
+      <name>070 8</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.156069" lon="33.306846">
+      <name>070 9</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.156349" lon="33.307323">
+      <name>070 10</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.15644" lon="33.307455">
+      <name>070 11</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.15656" lon="33.307706">
+      <name>070 12</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.157182" lon="33.309756">
+      <name>070 13</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.162533" lon="33.327619">
+      <name>070 14</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.16344" lon="33.328198">
+      <name>070 15</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.1649" lon="33.328627">
+      <name>070 16</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="54.173411" lon="33.336567">
+      <name>070 17</name>
+      <sym>waypoint</sym>
+    </rtept>
+  </rte>
+  <rte>
+    <name>066</name>
+    <number>6</number>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:Categories>
+          <gpxx:Category>MEGA-маршруты</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:RouteExtension>
+      <gpxtrx:TrackExtension>
+        <gpxtrx:Categories>
+          <gpxtrx:Category>MEGA-маршруты</gpxtrx:Category>
+        </gpxtrx:Categories>
+      </gpxtrx:TrackExtension>
+    </extensions>
+    <rtept lat="53.582337" lon="33.800607">
+      <name>066 1</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.582213" lon="33.800415">
+      <name>066 2</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.580847" lon="33.798269">
+      <name>066 3</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.579579" lon="33.796299">
+      <name>066 4</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.577955" lon="33.793775">
+      <name>066 5</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.576988" lon="33.79178">
+      <name>066 6</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.571152" lon="33.779099">
+      <name>066 7</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.568985" lon="33.774295">
+      <name>066 8</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.567505" lon="33.771015">
+      <name>066 9</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.561644" lon="33.765528">
+      <name>066 10</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.561166" lon="33.765195">
+      <name>066 11</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.560903" lon="33.765011">
+      <name>066 12</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.560681" lon="33.764855">
+      <name>066 13</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.554557" lon="33.759385">
+      <name>066 14</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.553906" lon="33.75878">
+      <name>066 15</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.553659" lon="33.758513">
+      <name>066 16</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.552366" lon="33.756863">
+      <name>066 17</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.549071" lon="33.752533">
+      <name>066 18</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.548504" lon="33.751708">
+      <name>066 19</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.546596" lon="33.74929">
+      <name>066 20</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.546359" lon="33.748966">
+      <name>066 21</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.545464" lon="33.747738">
+      <name>066 22</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.545232" lon="33.747441">
+      <name>066 23</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.545181" lon="33.747376">
+      <name>066 24</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.54435" lon="33.746316">
+      <name>066 25</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.543949" lon="33.745784">
+      <name>066 26</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.543524" lon="33.745221">
+      <name>066 27</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.543316" lon="33.744944">
+      <name>066 28</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.543133" lon="33.744701">
+      <name>066 29</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.543114" lon="33.744676">
+      <name>066 30</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.542723" lon="33.744158">
+      <name>066 31</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.542634" lon="33.744039">
+      <name>066 32</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.542242" lon="33.743519">
+      <name>066 33</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.54134" lon="33.742322">
+      <name>066 34</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.541006" lon="33.741868">
+      <name>066 35</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.540416" lon="33.741092">
+      <name>066 36</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.539986" lon="33.740489">
+      <name>066 37</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.539556" lon="33.739888">
+      <name>066 38</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.539131" lon="33.739296">
+      <name>066 39</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.538441" lon="33.738422">
+      <name>066 40</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.537674" lon="33.737385">
+      <name>066 41</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.537395" lon="33.737008">
+      <name>066 42</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.536705" lon="33.736037">
+      <name>066 43</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.536584" lon="33.735786">
+      <name>066 44</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.535215" lon="33.733545">
+      <name>066 45</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.534645" lon="33.7326">
+      <name>066 46</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.534568" lon="33.732478">
+      <name>066 47</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.534396" lon="33.732204">
+      <name>066 48</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.534286" lon="33.731967">
+      <name>066 49</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.534167" lon="33.731712">
+      <name>066 50</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.534123" lon="33.731602">
+      <name>066 51</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.533809" lon="33.730826">
+      <name>066 52</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.533761" lon="33.730716">
+      <name>066 53</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.533691" lon="33.73047">
+      <name>066 54</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.533578" lon="33.729986">
+      <name>066 55</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.533545" lon="33.729845">
+      <name>066 56</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.533538" lon="33.729807">
+      <name>066 57</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.53345" lon="33.729311">
+      <name>066 58</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.533441" lon="33.729256">
+      <name>066 59</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.533348" lon="33.72874">
+      <name>066 60</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.533293" lon="33.728381">
+      <name>066 61</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.533274" lon="33.728243">
+      <name>066 62</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.533173" lon="33.727517">
+      <name>066 63</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.533069" lon="33.726725">
+      <name>066 64</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.533021" lon="33.726365">
+      <name>066 65</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.532924" lon="33.725629">
+      <name>066 66</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.532902" lon="33.725456">
+      <name>066 67</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.532898" lon="33.725428">
+      <name>066 68</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.532269" lon="33.725649">
+      <name>066 69</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.53219" lon="33.725677">
+      <name>066 70</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.531802" lon="33.72581">
+      <name>066 71</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.531726" lon="33.725837">
+      <name>066 72</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.531706" lon="33.725844">
+      <name>066 73</name>
+      <sym>waypoint</sym>
+    </rtept>
+  </rte>
+</gpx>
