@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="SAS.Planet 20.12.12.10106" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+  <metadata>
+    <time>2021-10-16T19:27:23Z</time>
+    <link href="http://www.sasgis.org/">
+      <text>SAS.Planet</text>
+    </link>
+    <name>014</name>
+    <author>
+      <name>designer</name>
+    </author>
+    <bounds maxlat="53.256163" maxlon="34.358269" minlat="53.393338" minlon="33.861309"/>
+  </metadata>
+  <rte>
+    <name>014</name>
+    <number>1</number>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:Categories>
+          <gpxx:Category>MEGA-маршруты</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:RouteExtension>
+      <gpxtrx:TrackExtension>
+        <gpxtrx:Categories>
+          <gpxtrx:Category>MEGA-маршруты</gpxtrx:Category>
+        </gpxtrx:Categories>
+      </gpxtrx:TrackExtension>
+    </extensions>
+    <rtept lat="53.393338" lon="33.88837">
+      <name>014 1</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.38872" lon="33.898498">
+      <name>014 2</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.387797" lon="33.899098">
+      <name>014 3</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.385282" lon="33.897038">
+      <name>014 4</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.383127" lon="33.889657">
+      <name>014 5</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.381895" lon="33.888541">
+      <name>014 6</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.379945" lon="33.887855">
+      <name>014 7</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.378149" lon="33.883391">
+      <name>014 8</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.376199" lon="33.881246">
+      <name>014 9</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.376147" lon="33.879443">
+      <name>014 10</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.374248" lon="33.873521">
+      <name>014 11</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.372811" lon="33.875752">
+      <name>014 12</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.369988" lon="33.874637">
+      <name>014 13</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.366292" lon="33.871461">
+      <name>014 14</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.365214" lon="33.871547">
+      <name>014 15</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.36432" lon="33.870149">
+      <name>014 16</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.354359" lon="33.861309">
+      <name>014 17</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.320042" lon="34.00456">
+      <name>014 18</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.3185" lon="34.012972">
+      <name>014 19</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.316547" lon="34.035803">
+      <name>014 20</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.303387" lon="34.06859">
+      <name>014 21</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.302461" lon="34.081293">
+      <name>014 22</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.299273" lon="34.091421">
+      <name>014 23</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.286211" lon="34.144636">
+      <name>014 24</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.285491" lon="34.165579">
+      <name>014 25</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.279112" lon="34.194761">
+      <name>014 26</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.278289" lon="34.199739">
+      <name>014 27</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.280964" lon="34.213816">
+      <name>014 28</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.280553" lon="34.218622">
+      <name>014 29</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.265118" lon="34.28969">
+      <name>014 30</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.264912" lon="34.301706">
+      <name>014 31</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.259765" lon="34.310804">
+      <name>014 32</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.256163" lon="34.327455">
+      <name>014 33</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.257707" lon="34.334494">
+      <name>014 34</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.263574" lon="34.347368">
+      <name>014 35</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.268154" lon="34.356724">
+      <name>014 36</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="53.267073" lon="34.358269">
+      <name>014 37</name>
+      <sym>waypoint</sym>
+    </rtept>
+  </rte>
+</gpx>
