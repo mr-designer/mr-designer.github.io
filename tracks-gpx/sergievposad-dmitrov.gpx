@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="SAS.Planet 20.12.12.10106" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+  <metadata>
+    <time>2021-10-16T15:32:53Z</time>
+    <link href="http://www.sasgis.org/">
+      <text>SAS.Planet</text>
+    </link>
+    <name>053</name>
+    <author>
+      <name>designer</name>
+    </author>
+    <bounds maxlat="56.302036" maxlon="38.136418" minlat="56.441723" minlon="37.517986"/>
+  </metadata>
+  <rte>
+    <name>053</name>
+    <number>1</number>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:Categories>
+          <gpxx:Category>MEGA-маршруты</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:RouteExtension>
+      <gpxtrx:TrackExtension>
+        <gpxtrx:Categories>
+          <gpxtrx:Category>MEGA-маршруты</gpxtrx:Category>
+        </gpxtrx:Categories>
+      </gpxtrx:TrackExtension>
+    </extensions>
+    <rtept lat="56.302036" lon="38.136246">
+      <name>053 1</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.302423" lon="38.136418">
+      <name>053 2</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.302572" lon="38.133875">
+      <name>053 3</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.302411" lon="38.133896">
+      <name>053 4</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.302698" lon="38.130206">
+      <name>053 5</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.304672" lon="38.130474">
+      <name>053 6</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.305447" lon="38.130731">
+      <name>053 7</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.306366" lon="38.131525">
+      <name>053 8</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.307996" lon="38.132842">
+      <name>053 9</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.309356" lon="38.133615">
+      <name>053 10</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.310524" lon="38.132971">
+      <name>053 11</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.311789" lon="38.132928">
+      <name>053 12</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.31279" lon="38.132413">
+      <name>053 13</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.313506" lon="38.131469">
+      <name>053 14</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.317465" lon="38.131598">
+      <name>053 15</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.324143" lon="38.132285">
+      <name>053 16</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.324691" lon="38.134044">
+      <name>053 17</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.327862" lon="38.13207">
+      <name>053 18</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.333918" lon="38.130825">
+      <name>053 19</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.337971" lon="38.129238">
+      <name>053 20</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.339949" lon="38.127135">
+      <name>053 21</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.347838" lon="38.121127">
+      <name>053 22</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.351031" lon="38.117307">
+      <name>053 23</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.353056" lon="38.114475">
+      <name>053 24</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.354534" lon="38.113445">
+      <name>053 25</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.359299" lon="38.11323">
+      <name>053 26</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.37228" lon="38.112973">
+      <name>053 27</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.37309" lon="38.112672">
+      <name>053 28</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.375209" lon="38.110484">
+      <name>053 29</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.378019" lon="38.085378">
+      <name>053 30</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.378567" lon="38.082288">
+      <name>053 31</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.379424" lon="38.079584">
+      <name>053 32</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.39078" lon="38.045123">
+      <name>053 33</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.39366" lon="38.039244">
+      <name>053 34</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.397064" lon="38.036369">
+      <name>053 35</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.406345" lon="38.017271">
+      <name>053 36</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.407035" lon="38.009761">
+      <name>053 37</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.407796" lon="38.004568">
+      <name>053 38</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.411032" lon="37.995213">
+      <name>053 39</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.417622" lon="37.987789">
+      <name>053 40</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.418454" lon="37.986115">
+      <name>053 41</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.430263" lon="37.942834">
+      <name>053 42</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.44101" lon="37.902665">
+      <name>053 43</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.441723" lon="37.891507">
+      <name>053 44</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.440867" lon="37.882924">
+      <name>053 45</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.4383" lon="37.871422">
+      <name>053 46</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.435352" lon="37.866616">
+      <name>053 47</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.431642" lon="37.844128">
+      <name>053 48</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.433259" lon="37.836918">
+      <name>053 49</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.431833" lon="37.831082">
+      <name>053 50</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.413757" lon="37.66972">
+      <name>053 51</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.409951" lon="37.656674">
+      <name>053 52</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.407381" lon="37.644829">
+      <name>053 53</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.39838" lon="37.63832">
+      <name>053 54</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.38724" lon="37.623386">
+      <name>053 55</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.382669" lon="37.607936">
+      <name>053 56</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.370763" lon="37.574977">
+      <name>053 57</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.368286" lon="37.55249">
+      <name>053 58</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.365809" lon="37.542877">
+      <name>053 59</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.363141" lon="37.536525">
+      <name>053 60</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.361998" lon="37.530345">
+      <name>053 61</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.360473" lon="37.529487">
+      <name>053 62</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.357519" lon="37.525882">
+      <name>053 63</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.347535" lon="37.51893">
+      <name>053 64</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.345152" lon="37.517986">
+      <name>053 65</name>
+      <sym>waypoint</sym>
+    </rtept>
+  </rte>
+</gpx>
